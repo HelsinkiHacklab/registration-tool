@@ -22,3 +22,10 @@ also enables participation because all you need to know is in [this
 repository](https://github.com/HelsinkiHacklab/registration-tool). This also also conflict resolution method. **Code
 only exists when it has been pulled into HelsinkiHacklab repository.** Everyone is free to pick any tool or framework as
 need arises. Pull requests are good place to have arguments about right amount of spaces or correct JavaScript framework.
+
+Requirements
+============
+
+Registration
+------------
+As a user I want to provide my email address in order to register to the course.
